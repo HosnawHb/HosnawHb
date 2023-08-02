@@ -1,8 +1,7 @@
-### Hi there 👋 <br />
+### Hi there 👋
 
-# This is Hosna Habibi <br />
+This is Hosna Habibi <br />
 <br />
-
 * 🔭 I’m currently working on Deep Learning Projects <br />
 * 🌱 I’m currently doing research in DL <br />
 * 📫 How to reach me: hb.hosna077@gmail.com <br />
