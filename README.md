@@ -2,10 +2,10 @@
 
 This is Hosna Habibi <br />
 <br />
-*🔭 I’m currently working on Deep Learning Projects <br />
-*🌱 I’m currently doing research in DL <br />
-*📫 How to reach me: hb.hosna077@gmail.com <br />
-*⚡ Fact about me: I'm a fan of learning new languages <br />
+* 🔭 I’m currently working on Deep Learning Projects <br />
+* 🌱 I’m currently doing research in DL <br />
+* 📫 How to reach me: hb.hosna077@gmail.com <br />
+* ⚡ Fact about me: I'm a fan of learning new languages <br />
 <!--
 **HosnawHb/HosnawHb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - This is Hosna Habibi
